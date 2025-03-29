@@ -1,5 +1,6 @@
 n=int(input(" "))
-
+#is palindrone
+# is pali
 def palindronfn(n):
     org_num=n
     rev=0
