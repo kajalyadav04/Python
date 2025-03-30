@@ -1,3 +1,5 @@
+s=input()[0]
+
 def checkString(s):
     # write your code here
     v, c=0, 0
@@ -16,3 +18,4 @@ def checkString(s):
         print("No")
     else:
         print("Same")
+checkString(s)
